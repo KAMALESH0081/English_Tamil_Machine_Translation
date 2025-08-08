@@ -168,4 +168,3 @@ class Transformer(nn.Module):
         output = self.decoder(tgt, enc_output, src_mask, tgt_mask)
         return output
     
-model = Transformer(src_vocab_size, tgt_vocab_size, d_model, n_heads, d_ff, n_enc_layers, n_dec_layers, dropout).to(device)
