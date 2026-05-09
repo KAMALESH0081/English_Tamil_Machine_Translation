@@ -17,7 +17,7 @@ Successfully trained on a 6GB VRAM GPU using memory-efficient training technique
 
 Inference and deployment are available in a separate repository using FastAPI, Gradio, and Docker.
 
-Inference Repository: [link-to-your-inference-repo]
+Inference Repository: [[link-to-your-inference-repo]](https://github.com/KAMALESH0081/en-ta-translation-service)
 
 ## Project Goals
 
